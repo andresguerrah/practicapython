@@ -1,3 +1,6 @@
 import random
 
-# your code here
+def generate_random():
+    luis = random.randint(0,9)
+    return luis
+ 
